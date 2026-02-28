@@ -1,6 +1,7 @@
 local gameScripts = {
     [119987266683883] = "https://raw.githubusercontent.com/ihsannur020-ops/ScriptByAzka_Library/main/SurviveLavaForBrainrot", --Survival Lava For Brainrot
-    [137723497878181] = "https://raw.githubusercontent.com/ihsannur020-ops/ScriptByAzka_Library/refs/heads/main/EscapeRissingLavaForBrainrot" --Escape Rissing Lava For Brainrot
+    [137723497878181] = "https://raw.githubusercontent.com/ihsannur020-ops/ScriptByAzka_Library/refs/heads/main/EscapeRissingLavaForBrainrot", --Escape Rissing Lava For Brainrot
+    [94702395375549] = "https://raw.githubusercontent.com/ihsannur020-ops/ScriptByAzka_Library/refs/heads/main/RunForBrainrots"
     
 }
 
